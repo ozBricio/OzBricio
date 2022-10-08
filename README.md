@@ -8,7 +8,7 @@
 - ⚡ Dono do OzBot o melhor Bot para Discord 
 
  <div> 
-  <a href="[https://www.youtube.com/channel/UCuRGzGHFfTswFICPxReGVXA](http://ozbot.cf/)" target="_blank"><img src="https://github.com/gabrielovski/oz-bot/blob/master/imagens/logo.png?raw=true" target="_blank"></a>
+  <a href="[https://www.youtube.com/channel/UCuRGzGHFfTswFICPxReGVXA](http://ozbot.cf/)" target="_blank"><img src="https://github.com/ozBricio/OzBricio/blob/main/Capturar.jpg" target="_blank"></a>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
