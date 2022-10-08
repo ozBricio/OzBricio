@@ -8,7 +8,7 @@
 - ⚡ Dono do OzBot o melhor Bot para Discord 
 
  <div> 
-  <a href="[https://www.youtube.com/channel/UCuRGzGHFfTswFICPxReGVXA](http://ozbot.cf/)" target="_blank"><img src="https://github.com/ozBricio/OzBricio/blob/main/oz%20bot.png" target="_blank"></a>
+  <a href="http://ozbot.cf/" target="_blank"><img src="https://github.com/ozBricio/OzBricio/blob/main/oz%20bot.png" target="_blank"></a>
  
 
   
