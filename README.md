@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-### Olá mundo  Eu sou o Fabricio
+### Olá mundo me chamo Fabrício
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação 6/8
-<div align="center">
-  <a href="https://github.com/davidluiz91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozBricio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzBricio&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+- 🌱 Estudante de tudo de tecnologia
+- ⚡ Dono do OzBot o melhor Bot para Discord 
+
+ <div> 
+  <a href="[https://www.youtube.com/channel/UCuRGzGHFfTswFICPxReGVXA](http://ozbot.cf/)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,14 +38,3 @@
   <a href="https://www.linkedin.com/in/dvdluiz91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
